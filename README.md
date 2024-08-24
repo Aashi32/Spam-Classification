@@ -12,7 +12,7 @@
     <li><a href="#data">Data</a></li>
     <li><a href="#model">Model</a></li>
     <li><a href="#results">Results</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+
 </ul>
 
 <h2 id="features">Features</h2>
@@ -32,7 +32,7 @@
 </ul>
 
 <h3>Clone the Repository</h3>
-<pre><code>git clone https://github.com/yourusername/spam-classification.git
+<pre><code>git clone https://github.com/Aashi32/spam-classification.git
 cd spam-classification
 </code></pre>
 
@@ -103,15 +103,7 @@ nltk.download('punkt')
     <li><strong>Accuracy</strong>: 98.5%</li>
     <li><strong>Precision</strong>: 97.2%</li>
 </ul>
-<p>(Note: Replace these with actual results from your model.)</p>
 
-<h2 id="contributing">Contributing</h2>
-<p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
-<ol>
-    <li>Fork the repository.</li>
-    <li>Create your feature branch (<code>git checkout -b feature-branch</code>).</li>
-    <li>Commit your changes (<code>git commit -m 'Add some feature'</code>).</li>
-    <li>Push to the branch (<code>git push origin feature-branch</code>).</li>
-    <li>Open a Pull Request.</li>
-</ol>
+
+
 
